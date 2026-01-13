@@ -253,10 +253,10 @@ This codebase is designed for:
 If you use this code for research, please cite the original paper:
 
 ```bibtex
-@article{vietnamese_ecommerce_rag_2024,
+@article{vietnamese_ecommerce_rag_2025,
   title={A Dialogue-based Multimodal Retrieval Framework for Vietnamese E-commerce RAG System},
   author={Ho Ngoc Tuong Vy, Ngo Thuan Phat, Nguyen Huynh Minh Huy, Nguyen Minh Nhut, Nguyen Dinh Thuan},
-  year={2024},
+  year={2025},
   institution={University of Information Technology, VNU-HCM}
 }
 ```
